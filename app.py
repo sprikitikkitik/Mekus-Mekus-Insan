@@ -2,7 +2,7 @@ import streamlit as st
 
 st.subheader("My Webpage")
 st.title("Home Page")
-st.image("1698146959982.jpg", caption="Hello World", use_column_width=True)
+st.image("https://scontent.fmnl8-2.fna.fbcdn.net/v/t39.30808-6/407835150_389931716798346_1381011220440269177_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeE6UFtKg5qJK4VyFP6OZxFRd1zZoZJ_49R3XNmhkn_j1Gqtice9CUKsmEhXCIzuYGIoqCzoOl-uA-_iZuYPL9us&_nc_ohc=in-K7biqz8gAX_Vkxqr&_nc_ht=scontent.fmnl8-2.fna&oh=00_AfCN85SNFeEAGBwnx1O5h5Nwlt_kGeAPRfZv0Q86C9GGTA&oe=657515A1", caption="Hello World", use_column_width=True)
 st.write("Name: John Mark S. Ravelo")
 st.write("Age: 18")
 st.write("Birth Date: May 24, 2005")
